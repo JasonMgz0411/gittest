@@ -3,3 +3,4 @@ Git is free software.
 test
 create new branch here
 制造冲突
+解决冲突
