@@ -2,8 +2,8 @@ Git is a distributed version control system.
 Git is free software.
 test
 create new branch here
-ÖÆÔì³åÍ»
-½â¾ö³åÍ»
---no-ff ½ûÓÃfast forward
-´æ´¢¹¤×÷ÏÖ³¡
-¸Õ¸ÕÔ¶¶Ë¸üĞÂÁË
+åˆ¶é€ å†²çª
+è§£å†³å†²çª
+--no-ff ç¦ç”¨fast forward
+å­˜å‚¨å·¥ä½œç°åœº
+è¿œç«¯éœ€è¦æ›´æ–°
